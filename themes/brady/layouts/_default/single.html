@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ partial "header" . }}
+    {{ partial "main-menu" . }}
+    <div class="wrapper-full-width main-content-wrapper">
+      <div class="inner-wrapper clearfix has-right-sidebar">
+
+        <div class="content">
+          <div class="content-header">
+            <h1>
+              {{ with .Params.altpagetitle }}
+              {{ . }}
+              {{ else }}
+              {{ .Title }}
+              {{ end }}
+            </h1>
+          </div>
+          <div class="content-body">
+            {{ .Content }}
+          </div>
+          {{ if .Params.showcontact }}
+            {{ partial "contact" . }}
+          {{ end }}
+
+          {{ if .Params.showdbimpactform }}
+            {{ partial "database-impact-form" . }}
+          {{ end }}
+        </div>
+
+        {{ if .Params.showsidebar }}
+          {{ partial "sidebar.html" . }}
+        {{ end }}
+
+      </div>
+    </div>
+    {{ partial "subfooter-menu" . }}
+    {{ partial "footer" . }}
+  </body>
+</html>
