@@ -4,6 +4,7 @@ copyright = "© 2016 Brady & Associates"
 title = "Brady & Associates"
 theme = "brady"
 [params]
+  description = "We use data, systems thinking, and change management techniques to help hospitals improve their organizational effectiveness."
   logo = "img/brady_associates_logo-hospital_benchmark-navy.png"
   logoText = "img/brady_associates-hospital_benchmarking.png"
   keywords = "hospital department staffing benchmarks, hospital department labor benchmarks, hospital department productivity benchmarks, workload-based staffing reviews, organizational design, communities at risk, price transparency, develop new organizational structures, nursing, physician, clinic, productivity solutions, organizational solutions"
