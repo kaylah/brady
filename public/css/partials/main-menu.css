@@ -1,0 +1,22 @@
+/* TODO current-menu-item */
+.main-menu-wrapper {
+  background: #282870;
+  clear: both;
+}
+
+.main-menu-wrapper .inner-wrapper {
+  padding: 0;
+  width: 100%;
+}
+
+.main-menu a {
+  color: #fff;
+  display: block;
+  line-height: 50px;
+  padding: 0 15px;
+}
+
+.main-menu .current-menu-item,
+.main-menu a:hover {
+  color: #c7c7c7;
+}

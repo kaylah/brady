@@ -1,0 +1,89 @@
+/*
+THEME NAME:Brady & Associates
+THEME URI:http://www.bradyinc.com
+VERSION:1.0
+AUTHOR:Kayla Hennegin
+AUTHOR URI:http://www.bellafaithdesign.com
+DESCRIPTION:This theme is a custom theme for Brady & Associates.
+TEMPLATE:headway
+*/
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+*/
+
+.custom #menu-header-menu-2 ul.sub-menu,
+.custom .block-type-navigation ul.sub-menu {
+    background: #282870;
+}
+
+/* search */
+
+.custom #block-b3c53bdb6e03a537 {
+    height: 27px;
+    margin: 10px 0 0;
+}
+
+.custom #searchform-b3c53bdb6e03a537 {
+    background: #47478e;
+    position: relative;
+}
+
+.custom #search-b3c53bdb6e03a537 {
+    background: none;
+    border: 0;
+    color: #fff;
+    font-size: 12px;
+    height: 27px;
+    padding-left: 7px;
+}
+
+.custom #searchsubmit-b3c53bdb6e03a537 {
+    background: none;
+    color: #fff;
+    font-size: 14px;
+    height: 27px;
+    margin: 0;
+    min-width: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    width: 26px;
+    z-index: 9;
+}
+
+.custom #searchform-b3c53bdb6e03a537:after {
+    color: #fff;
+    content: "\f002";
+    font-family: FontAwesome;
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    z-index: 1;
+}
+
+.custom #searchsubmit-b3c53bdb6e03a537 {
+    text-indent: -9000px;
+}
+
+.custom ::-webkit-input-placeholder {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.custom :-moz-placeholder { /* Firefox 18- */
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.custom ::-moz-placeholder {  /* Firefox 19+ */
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.custom :-ms-input-placeholder {  
+    color: #fff;
+    text-transform: uppercase;
+}
