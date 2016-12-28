@@ -4,7 +4,7 @@ title = "What is Quick Check?"
 
 +++
 
-Quick Check is the most powerful, cost effective and easy-to-use hospital decision support benchmarking tool available from any source. It provides instant world-class real world staffing standards information when there isn’t time to engage in a large scale time-consuming “project.” <a href="http://www.profileaccess.com/HRC/ReportView.jsp?Request=727463" target="_blank">See an example report here</a>.
+Quick Check is the most powerful, cost effective and easy-to-use hospital decision support benchmarking tool available from any source. It provides instant world-class real world staffing standards information when there isn’t time to engage in a large scale time-consuming "project." <a href="http://www.profileaccess.com/HRC/ReportView.jsp?Request=727463" target="_blank">See an example report here</a>.
 
 Productivity management matters. Just a five percent improvement in productivity can produce annualized cost savings of better than one million dollars in a small critical access hospital and five million dollars or more in a typical mid-size urban community hospital.
 
@@ -16,7 +16,7 @@ Simply provide a standard set of basic information about the hospital during set
 
 If your hospital is already an IMPACT Plus or IMPACT Operations Monitor client and you want to interact with Quick Check directly, access is provided at no cost through your service agreement. Just enter through the “subscriber entrance”, login using the Quick Check user ID and password supplied by Brady &amp; Associates to enter your data and run your reports at no additional cost.
 
-If you are not yet a client, Quick Check access is available to you through our no risk honor system.  Just download the form at this link, complete it with the requested information, and send it to us via e-mail. If after 30 days you don’t believe your staffing review was worth its $150.00 total cost, just let us know and we’ll unconditionally waive the fee. Otherwise we’ll invoice you for the $150.00.
+If you are not yet a client, Quick Check access is available to you through our no risk honor system.  Just download the form at this <a href="http://bradyinc.com/pdfs/IMPACT%20Quick%20Check%20Data%20Input%20Template.xlsx" target="_blank">link</a>, complete it with the requested information, and send it to us via e-mail. If after 30 days you don’t believe your staffing review was worth its $150.00 total cost, just let us know and we’ll unconditionally waive the fee. Otherwise we’ll invoice you for the $150.00.
 
 We will run your reports. You will receive an e-mail containing an embedded link to your reports usually before the end of the next business day. You may view your reports in their native format on line or save them in PDF format. For assistance, please call (816) 587-2120 during normal business hours from 8:30 a.m. to 5:00 p.m. Central Time, Monday through Friday, except on holidays.
 
