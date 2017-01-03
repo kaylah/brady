@@ -57,6 +57,39 @@ table th, table td {
   vertical-align: top;
 }
 
+video {
+  width: 100%;
+}
+
+.video-wrapper {
+  display: none;
+  position: relative;
+}
+
+.video-wrapper.show {
+  display: block;
+}
+
+#close-video-button {
+  background: #fff;
+  color: #282870;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 0 0.5rem;
+  position: absolute;
+  right: 0;
+  z-index: 9;
+}
+
+#close-video-button span {
+  font-style: italic;
+  font-weight: normal;
+}
+
+#close-video-button:hover {
+  color: #7b343d;
+}
+
 .clearfix:before,
 .clearfix:after {
   content: '';
