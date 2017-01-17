@@ -20,4 +20,5 @@ $(document).ready(function(){
 
   $('#new-year-play-button').on('click', showVideo);
   $('#close-video-button').on('click', hideVideo);
+  document.getElementById('new-year-video').addEventListener('ended', hideVideo, false);
 });
