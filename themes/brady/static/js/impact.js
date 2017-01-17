@@ -1,11 +1,11 @@
 var hideVideo = function(){
-      document.getElementById('new-year-video').pause();
+      document.getElementById('impact-intro-video').pause();
       $('.video-wrapper').removeClass('show');
     },
     showVideo = function(e){
       e.preventDefault();
       $('.video-wrapper').addClass('show');
-      document.getElementById('new-year-video').play();
+      document.getElementById('impact-intro-video').play();
     };
 
 $(document).ready(function(){
@@ -18,7 +18,7 @@ $(document).ready(function(){
     }
   });
 
-  $('#new-year-play-button').on('click', showVideo);
+  $('#impact-intro-play-button').on('click', showVideo);
   $('#close-video-button').on('click', hideVideo);
-  document.getElementById('new-year-video').addEventListener('ended', hideVideo, false);
+  document.getElementById('impact-intro-video').addEventListener('ended', hideVideo, false);
 });
