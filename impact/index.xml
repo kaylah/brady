@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impact-rsses on Brady &amp; Associates</title>
+    <link>http://www.bradyinc.com/impact/index.xml</link>
+    <description>Recent content in Impact-rsses on Brady &amp; Associates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016 Brady &amp; Associates</copyright>
+    <lastBuildDate>Tue, 08 Nov 2016 01:30:30 -0600</lastBuildDate>
+    <atom:link href="http://www.bradyinc.com/impact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Impact</title>
+      <link>http://www.bradyinc.com/impact/</link>
+      <pubDate>Tue, 08 Nov 2016 01:30:30 -0600</pubDate>
+      
+      <guid>http://www.bradyinc.com/impact/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bradyinc.com/impact-database/&#34;&gt;IMPACT Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bradyinc.com/impact-just-the-numbers-benchmarks/&#34;&gt;IMPACT Just the Numbers Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bradyinc.com/impact-opportunity-inventory/&#34;&gt;IMPACT Opportunity Inventory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bradyinc.com/quick-check-registration/&#34;&gt;Quick Check Registration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bradyinc.com/impact-staffing-reviews/&#34;&gt;IMPACT Staffing Reviews&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
