@@ -1,6 +1,6 @@
 +++
 date = "2016-10-31T07:46:56-05:00"
-title = "Brady & Associates Privacy Policy"
+title = "Privacy Policy"
 
 +++
 

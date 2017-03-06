@@ -1,7 +1,7 @@
 languageCode = "en-us"
 baseurl = "http://www.bradyinc.com/"
 copyright = "© 2016 Brady & Associates"
-title = "Brady & Associates"
+title = "Brady & Associates: Hospital Organizational Specialists"
 theme = "brady"
 [params]
   description = "We use data, systems thinking, and change management techniques to help hospitals improve their organizational effectiveness."
