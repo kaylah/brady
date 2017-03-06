@@ -4,6 +4,10 @@ date = "2016-11-01T20:21:55-05:00"
 
 title = "Communities at Risk"
 
+[logoAlt]
+  graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"
+  text = "St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks"
+
 +++
 
 ## Time to Develop a Plan "B" for Local Health Care

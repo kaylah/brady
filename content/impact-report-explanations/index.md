@@ -4,6 +4,10 @@ date = "2016-11-01T20:13:36-05:00"
 
 title = "IMPACT Report Explanations"
 
+[logoAlt]
+  graphic = "Atlanta hospital organization benchmarks, Kansas City hospital organization benchmarks"
+  text = "Chicago hospital consultants, St. Louis hospital consultants"
+
 +++
 
 ## Welcome to our IMPACT Report Explanation page

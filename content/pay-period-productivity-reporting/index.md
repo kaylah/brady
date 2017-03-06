@@ -6,6 +6,10 @@ title = "Pay-Period Productivity Reporting"
 
 altPageTitle = "The IMPACT Operations Monitor, Pay-Period Productivity Reporting"
 
+[logoAlt]
+  graphic = "hospital organizational specialists in Cleveland, hospital organizational specialists in Atlanta"
+  text = "hospital organizational specialists in Kansas City, Chicago hospital organizational specialists"
+
 +++
 
 Given the apparent elasticity in demand for primary care and ongoing reimbursement changes, the management of labor costs in acute care and critical access hospitals is more important than ever.

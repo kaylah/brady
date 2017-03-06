@@ -4,6 +4,10 @@ date = "2016-11-01T20:41:38-05:00"
 
 title = "Staffing Reviews"
 
+[logoAlt]
+  graphic = "Cleveland hospital consultants, Atlanta hospital consultants"
+  text = "Kansas City hospital consultants, hospital organization benchmarks"
+
 +++
 
 _IMPACT Staffing Reviews_: The heart of this powerful labor management resource is our proprietary database which contains validated staffing and activity information from more than 750 hospitals, 304 distinct department types, and 24,000 hospital departments.

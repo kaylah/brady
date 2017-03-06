@@ -1,13 +1,13 @@
 languageCode = "en-us"
 baseurl = "http://www.bradyinc.com/"
 copyright = "© 2016 Brady & Associates"
-title = "Brady & Associates"
+title = "Brady & Associates: Hospital Organizational Specialists"
 theme = "brady"
 [params]
-  description = "We use data, systems thinking, and change management techniques to help hospitals improve their organizational effectiveness."
+  description = "We employ benchmarking data, systems thinking, and change management techniques to facilitate 360° performance improvement in the clinical setting."
   logo = "img/brady_associates_logo-hospital_benchmark-navy.png"
   logoText = "img/brady_associates-hospital_benchmarking.png"
-  keywords = "hospital department staffing benchmarks, hospital department labor benchmarks, hospital department productivity benchmarks, workload-based staffing reviews, organizational design, communities at risk, price transparency, develop new organizational structures, nursing, physician, clinic, productivity solutions, organizational solutions"
+  keywords = "hospital organization benchmarks, hospital organizational structure, hospital department stafﬁng benchmarks, hospital department labor benchmarks, hospital department productivity benchmarks, workload-based stafﬁng reviews, hospital organizational specialists in Chicago, hospital organizational specialists in St. Louis, hospital organizational specialists in Cleveland, hospital organizational specialists in Atlanta, hospital organizational specialists in Kansas City, Chicago hospital organizational specialists, St. Louis hospital organizational specialists, Cleveland hospital organizational specialists, Atlanta hospital organizational specialists, Kansas City hospital organizational specialists, Chicago hospital consultant, St. Louis hospital consultant, Cleveland hospital consultant, Atlanta hospital consultant, Kansas City hospital consultant, Chicago hospital organization benchmarks, St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks, Atlanta hospital organization benchmarks, Kansas City hospital organization benchmarks, Chicago hospital consultants, St. Louis hospital consultants, Cleveland hospital consultants, Atlanta hospital consultants, Kansas City hospital consultants"
 
 [menu.main]
   about = "about-us"
