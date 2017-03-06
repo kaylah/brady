@@ -7,9 +7,9 @@ Bradyinc.com uses [Hugo](https://gohugo.io/) to build a static website. The page
 ## Install Hugo
 
 * Mac 
-** Use Homebrew: 
+..* Use Homebrew: 
 `brew update && brew install hugo`
-** [Download](https://gohugo.io/) from Hugo's website
+..* [Download](https://gohugo.io/) from Hugo's website
 
 
 * Windows
