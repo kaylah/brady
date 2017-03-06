@@ -4,6 +4,10 @@ date = "2016-11-01T20:03:09-05:00"
 
 title = "Department List"
 
+[logoAlt]
+  graphic = "hospital organization benchmarks, hospital organizational structure"
+  text = "hospital department stafﬁng benchmarks, hospital department labor benchmarks"
+
 +++
 
 <table width="519">

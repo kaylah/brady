@@ -2,6 +2,10 @@
 date = "2016-10-31T07:46:56-05:00"
 title = "Privacy Policy"
 
+[logoAlt]
+  graphic = "Chicago hospital consultant, St. Louis hospital consultant"
+  text = "Cleveland hospital consultant ,Atlanta hospital consultant"
+
 +++
 
 This summary provides the key concepts of the full Brady &amp; Associates Privacy Policy and applies to the Brady &amp; Associates site and services. Please direct any questions to <a href="mailto:fbrady@bradyinc.com">fbrady@bradyinc.com</a>.

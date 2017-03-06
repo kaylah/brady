@@ -4,6 +4,10 @@ date = "2016-10-28T11:37:12-05:00"
 
 title = "Clients"
 
+[logoAlt]
+  graphic = "Chicago hospital consultant, St. Louis hospital consultant"
+  text = "Cleveland hospital consultant, Atlanta hospital consultant"
+
 +++
 
 ## A Partial List of Hospitals We Have Served

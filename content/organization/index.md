@@ -6,6 +6,10 @@ title = "Organization"
 
 keywords = "organization, form follow function, management consultant, hospital organization, plan, direct, organize, control, resources, changes, change, structure, layers, span of control, net revenue, reduce expenses, hospitals, reorganize, business lines, realign, reporting relationships, rethink, corporate structures, projected revenue, expense trends, action, spinning off, corporate, cost structure, new, outpatient services, outsourced, competitive costs, corporate restructuring, net cost, accessibility, quality, benefit, organization, community, organizational design, principles, structure, new, delivery organizations, priorities"
 
+[logoAlt]
+  graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"
+  text = "hospital organizational specialists in Chicago, hospital organizational specialists in St. Louis"
+
 +++
 
 ## Does Your Organization’s Form Follow Function?

@@ -6,6 +6,10 @@ title = "IMPACT Just the Numbers Benchmarks"
 
 altPageTitle = "IMPACT Benchmarks"
 
+[logoAlt]
+  graphic = "Chicago hospital consultant, St. Louis hospital consultant"
+  text = "Cleveland hospital consultant ,Atlanta hospital consultant"
+
 +++
 
 The heart of this powerful labor productivity management services is our proprietary IMPACT benchmark database which contains validated staffing and activity information from more than 750 hospitals, 304 department types, and 24,000 hospital departments.

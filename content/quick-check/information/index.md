@@ -2,6 +2,10 @@
 date = "2016-10-31T09:06:57-05:00"
 title = "What is Quick Check?"
 
+[logoAlt]
+  graphic = "Atlanta hospital organization benchmarks, Kansas City hospital organization benchmarks"
+  text = "Chicago hospital consultants, St. Louis hospital consultants"
+
 +++
 
 Quick Check is the most powerful, cost effective and easy-to-use hospital decision support benchmarking tool available from any source. It provides instant world-class real world staffing standards information when there isn’t time to engage in a large scale time-consuming "project." <a href="http://www.profileaccess.com/HRC/ReportView.jsp?Request=727463" target="_blank">See an example report here</a>.

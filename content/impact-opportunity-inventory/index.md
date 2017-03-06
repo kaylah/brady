@@ -4,6 +4,10 @@ title = "IMPACT Opportunity Inventory"
 
 date = "2016-11-01T20:11:02-05:00"
 
+[logoAlt]
+  graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"
+  text = "St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks"
+
 +++
 
 Nothing causes more angst among department heads than missing productivity targets and not knowing what to do about it. The Opportunity Inventory will move your managers beyond endless defensive discussions about FTE numbers to action. Real and lasting labor cost reduction and performance improvement can be achieved by systematically applying the Inventory's tools to identify, prioritize, and resolve productivity barriers.

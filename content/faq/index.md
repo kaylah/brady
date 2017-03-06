@@ -6,6 +6,10 @@ title = "FAQ"
 
 altPageTitle = "Frequently Asked Questions"
 
+[logoAlt]
+  graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"
+  text = "hospital organizational specialists in Chicago, hospital organizational specialists in St. Louis"
+
 +++
 
 ## Q. What should be the hospital’s first consideration when we begin to think about benchmarking?

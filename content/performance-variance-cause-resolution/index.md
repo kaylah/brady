@@ -6,6 +6,10 @@ title = "Performance Variance Cause Resolution"
 
 date = "2016-11-01T20:27:43-05:00"
 
+[logoAlt]
+  graphic = "St. Louis hospital organizational specialists, Cleveland hospital organizational specialists"
+  text = "Atlanta hospital organizational specialists, Kansas City hospital organizational specialists"
+
 +++
 
 Nothing causes more angst among department heads than missing productivity targets and not knowing what to do about it. The Opportunity Inventory will move your managers beyond endless defensive discussions about FTE numbers to action. Real and lasting labor cost reduction and performance improvement can be achieved by systematically applying the Inventory’s tools to identify, prioritize, and resolve productivity barriers.
