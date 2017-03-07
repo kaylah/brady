@@ -4,7 +4,7 @@ date = "2016-10-31T09:06:57-05:00"
 
 title = "What is Quick Check?"
 
-[logoalt]
+[logoAlt]
   graphic = "Atlanta hospital organization benchmarks, Kansas City hospital organization benchmarks"
   text = "Chicago hospital consultants, St. Louis hospital consultants"
 

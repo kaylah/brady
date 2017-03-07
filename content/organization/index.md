@@ -4,7 +4,7 @@ date = "2016-10-28T11:33:30-05:00"
 
 title = "Organization"
 
-[logoalt]
+[logoAlt]
   graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"
   text = "hospital organizational specialists in Chicago, hospital organizational specialists in St. Louis"
 

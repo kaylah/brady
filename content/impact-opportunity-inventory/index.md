@@ -4,7 +4,7 @@ title = "IMPACT Opportunity Inventory"
 
 date = "2016-11-01T20:11:02-05:00"
 
-[logoalt]
+[logoAlt]
   graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"
   text = "St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks"
 

@@ -8,7 +8,7 @@ altPageTitle = "IMPACT: The Database and Peer Group Selection"
 
 showDBImpactForm = true
 
-[logoalt]
+[logoAlt]
   graphic = "St. Louis hospital organizational specialists, Cleveland hospital organizational specialists"
   text = "Atlanta hospital organizational specialists, Kansas City hospital organizational specialists"
 

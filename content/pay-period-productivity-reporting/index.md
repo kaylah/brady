@@ -6,7 +6,7 @@ title = "Pay-Period Productivity Reporting"
 
 altPageTitle = "The IMPACT Operations Monitor, Pay-Period Productivity Reporting"
 
-[logoalt]
+[logoAlt]
   graphic = "hospital organizational specialists in Cleveland, hospital organizational specialists in Atlanta"
   text = "hospital organizational specialists in Kansas City, Chicago hospital organizational specialists"
 

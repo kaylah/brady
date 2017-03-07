@@ -6,7 +6,7 @@ date = "2016-10-27T00:27:52-05:00"
 
 altPageTitle = "World Class Knowledge-Based Services"
 
-[logoalt]
+[logoAlt]
   graphic = "hospital organizational specialists in Kansas City, Chicago hospital organizational specialists"
   text = "St. Louis hospital organizational specialists, Cleveland hospital organizational specialists"
 
