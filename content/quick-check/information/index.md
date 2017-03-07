@@ -1,5 +1,7 @@
 +++
+
 date = "2016-10-31T09:06:57-05:00"
+
 title = "What is Quick Check?"
 
 [logoalt]

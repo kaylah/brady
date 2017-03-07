@@ -8,7 +8,7 @@ altPageTitle = "IMPACT Benchmarks"
 
 [logoalt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"
-  text = "Cleveland hospital consultant ,Atlanta hospital consultant"
+  text = "Cleveland hospital consultant, Atlanta hospital consultant"
 
 +++
 
