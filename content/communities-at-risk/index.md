@@ -4,7 +4,7 @@ date = "2016-11-01T20:21:55-05:00"
 
 title = "Communities at Risk"
 
-[logoAlt]
+[logoalt]
   graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"
   text = "St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks"
 

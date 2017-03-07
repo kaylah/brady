@@ -2,7 +2,7 @@
 date = "2016-10-31T07:46:56-05:00"
 title = "Privacy Policy"
 
-[logoAlt]
+[logoalt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"
   text = "Cleveland hospital consultant ,Atlanta hospital consultant"
 

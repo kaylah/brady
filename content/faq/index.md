@@ -6,7 +6,7 @@ title = "FAQ"
 
 altPageTitle = "Frequently Asked Questions"
 
-[logoAlt]
+[logoalt]
   graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"
   text = "hospital organizational specialists in Chicago, hospital organizational specialists in St. Louis"
 

@@ -4,7 +4,7 @@ date = "2016-11-01T19:35:34-05:00"
 
 title = "Data Template Explanation"
 
-[logoAlt]
+[logoalt]
   graphic = "Cleveland hospital consultants, Atlanta hospital consultants"
   text = "Kansas City hospital consultants, hospital organization benchmarks"
 

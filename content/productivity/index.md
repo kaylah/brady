@@ -4,7 +4,7 @@ date = "2016-10-28T11:28:27-05:00"
 
 title = "Productivity"
 
-[logoAlt]
+[logoalt]
   graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"
   text = "St. Louis hospital organization benchmarks, Cleveland hospital organization benchmarks"
 

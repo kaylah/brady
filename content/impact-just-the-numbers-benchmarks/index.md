@@ -6,7 +6,7 @@ title = "IMPACT Just the Numbers Benchmarks"
 
 altPageTitle = "IMPACT Benchmarks"
 
-[logoAlt]
+[logoalt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"
   text = "Cleveland hospital consultant ,Atlanta hospital consultant"
 

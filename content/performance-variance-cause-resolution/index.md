@@ -6,7 +6,7 @@ title = "Performance Variance Cause Resolution"
 
 date = "2016-11-01T20:27:43-05:00"
 
-[logoAlt]
+[logoalt]
   graphic = "St. Louis hospital organizational specialists, Cleveland hospital organizational specialists"
   text = "Atlanta hospital organizational specialists, Kansas City hospital organizational specialists"
 

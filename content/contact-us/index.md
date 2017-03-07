@@ -6,7 +6,7 @@ title = "Contact Us"
 
 showContact = true
 
-[logoAlt]
+[logoalt]
   graphic = "Atlanta hospital organization benchmarks, Kansas City hospital organization benchmarks"
   text = "Chicago hospital consultants, St. Louis hospital consultants"
 
