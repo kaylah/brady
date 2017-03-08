@@ -35,8 +35,9 @@ p {
   line-height: 1.8em;
 }
 
-a {
+a, .link {
   color: #7b343d;
+  cursor: pointer;
   font-weight: bold;
   text-decoration: none;
 }
@@ -70,7 +71,7 @@ video {
   display: block;
 }
 
-#close-video-button {
+.close-video-button {
   background: #fff;
   color: #282870;
   cursor: pointer;
@@ -81,12 +82,12 @@ video {
   z-index: 9;
 }
 
-#close-video-button span {
+.close-video-button span {
   font-style: italic;
   font-weight: normal;
 }
 
-#close-video-button:hover {
+.close-video-button:hover {
   color: #7b343d;
 }
 
