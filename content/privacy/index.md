@@ -30,7 +30,7 @@ We disclose your information to facilitate your transactions on the site. We occ
 
 ## Communication preferences
 
-You can access, review, and change your personal information from your applicable login pages at <a href="http://bradyinc.com">http://bradyinc.com</a> and <a href="http://www.bradyinc.com/quick-check-registration/">http://www.bradyinc.com/quick-check-registration/</a>.
+You can access, review, and change your personal information from your applicable login pages at <a href="http://bradyinc.com">http://bradyinc.com</a>.
 
 ## Other information
 

@@ -7,7 +7,6 @@
 
 {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 <meta name="keywords" content="{{ with .Keywords }}{{ . }}{{ else }}{{ .Site.Params.keywords }}{{ end }}" />
 
 {{ if not .Site.Params.OpenGraph.hide }}
@@ -20,7 +19,7 @@
 {{ "<!-- Site Icon -->" | safeHTML }}
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.logo }}">
 {{ "<!-- Load CSS config -->" | safeHTML }}
-<link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:700%7COpen+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/old-style.css" type="text/css">

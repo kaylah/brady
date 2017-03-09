@@ -1,11 +1,13 @@
-var hideVideo = function(){
-      document.getElementById('new-year-video').pause();
-      $('.video-wrapper').removeClass('show');
+var hideVideo = function(e){
+      $videoWrapper = $(e.target).closest('.video-wrapper');
+      $videoWrapper.find('.video').get(0).pause();
+      $videoWrapper.removeClass('show');
     },
     showVideo = function(e){
       e.preventDefault();
-      $('.video-wrapper').addClass('show');
-      document.getElementById('new-year-video').play();
+      $videoWrapper = $(e.target).closest('p').next('.video-wrapper');
+      $videoWrapper.addClass('show');
+      $videoWrapper.find('.video').get(0).play();
     };
 
 $(document).ready(function(){
@@ -18,7 +20,10 @@ $(document).ready(function(){
     }
   });
 
-  $('#new-year-play-button').on('click', showVideo);
-  $('#close-video-button').on('click', hideVideo);
-  document.getElementById('new-year-video').addEventListener('ended', hideVideo, false);
+  $('.video-play-button').on('click', showVideo);
+  $('.close-video-button').on('click', hideVideo);
+  var videos = document.getElementsByClassName('video');
+  for (var i=0; i < videos.length; i++) {
+    videos[i].addEventListener('ended', hideVideo, false);
+  }
 });
