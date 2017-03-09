@@ -23,7 +23,7 @@ IMPACT Benchmarks facilitate the development, calibration and adjustment of depa
 For a complete description of the IMPACT benchmarking database and process, <span class="link" id="impact-intro-play-button">select this link</span>. It will take you to a narrated file that requires just over 15 minutes to watch in its entirety. If you are seriously considering a benchmarking or cost reduction initiative, you might want to share the link with other members of your senior management team.
 
 <div class="video-wrapper">
-  <div class="close-video-button">x <span>close video</span></div>
+  <div id="close-video-button" class="close-video-button">x <span>close video</span></div>
   <video id="impact-intro-video" src="http://www.bradyinc.com/video/impact_introduction.mp4" controls></video>
 </div>
 
