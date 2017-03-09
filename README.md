@@ -6,22 +6,22 @@ Bradyinc.com uses [Hugo](https://gohugo.io/) to build a static website. The page
 
 ## Install Hugo
 
-* Mac 
+* Mac
   * Use Homebrew:  
 `brew update && brew install hugo`
   * [Download](https://gohugo.io/) from Hugo's website
 
 
 * Windows  
-[Follow these instructions from Hugo's Website](https://gohugo.io/tutorials/installing-on-windows/) 
+[Follow these instructions from Hugo's Website](https://gohugo.io/tutorials/installing-on-windows/)
 
 ## Develop
 
 Run `hugo server` in your preferred CLI from the root of the `development` branch.
 
 ## Build
-Run `hugo` in CLI 
-Compiles all files into a `public` folder.
+Run ` hugo --destination ~/desktop/public` in CLI
+Compiles all files into a `public` folder on your desktop.
 
 _If you need to make changes or already have a `public folder`, delete the `public` folder locally & rerun `hugo` to get a fresh build._
 
