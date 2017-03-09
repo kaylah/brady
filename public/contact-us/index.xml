@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact-us on Brady &amp; Associates: Hospital Organizational Specialists</title>
+    <link>http://www.bradyinc.com/contact-us/index.xml</link>
+    <description>Recent content in Contact-us on Brady &amp; Associates: Hospital Organizational Specialists</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016 Brady &amp; Associates</copyright>
+    <lastBuildDate>Sat, 29 Oct 2016 14:44:28 -0500</lastBuildDate>
+    <atom:link href="http://www.bradyinc.com/contact-us/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://www.bradyinc.com/contact-us/</link>
+      <pubDate>Sat, 29 Oct 2016 14:44:28 -0500</pubDate>
+      
+      <guid>http://www.bradyinc.com/contact-us/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
