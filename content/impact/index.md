@@ -11,7 +11,7 @@ title = "Impact"
 +++
 
 
-* [IMPACT Database](http://www.bradyinc.com/impact-database/)
-* [IMPACT Just the Numbers Benchmarks](http://www.bradyinc.com/impact-just-the-numbers-benchmarks/)
-* [IMPACT Opportunity Inventory](http://www.bradyinc.com/impact-opportunity-inventory/)
-* [IMPACT Staffing Reviews](http://www.bradyinc.com/impact-staffing-reviews/)
+* [IMPACT Database](/impact-database/)
+* [IMPACT Just the Numbers Benchmarks](/impact-just-the-numbers-benchmarks/)
+* [IMPACT Opportunity Inventory](/impact-opportunity-inventory/)
+* [IMPACT Staffing Reviews](/impact-staffing-reviews/)

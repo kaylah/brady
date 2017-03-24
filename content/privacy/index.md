@@ -30,7 +30,7 @@ We disclose your information to facilitate your transactions on the site. We occ
 
 ## Communication preferences
 
-You can access, review, and change your personal information from your applicable login pages at <a href="http://bradyinc.com">http://bradyinc.com</a>.
+You can access, review, and change your personal information from your applicable login pages at <a href="/">https://bradyinc.com</a>.
 
 ## Other information
 
