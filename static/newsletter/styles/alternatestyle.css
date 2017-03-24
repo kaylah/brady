@@ -1,0 +1,196 @@
+/* reset */
+
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+html,body {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img { 
+	border:0;
+}
+input{
+	border:1px solid #b0b0b0;
+	padding:3px 5px 4px;
+	color:#979797;
+	width:190px;
+}
+address,caption,cite,code,dfn,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after {
+	content:'';
+}
+abbr,acronym { border:0;
+}
+
+
+/* newsletter */
+
+.newsletter-wrapper {
+	border: 1px solid #484f6f;
+	margin: 20px auto;
+	padding: 20px 0 10px 0;
+	width: 900px;
+}
+
+.newsletter {
+	color: #484f6f;
+	font-family: 'Times New Roman', 'Times', serif;
+	font-size: 14px;
+	line-height: 18px;
+	margin: 0 auto;
+	width:  800px;
+}
+
+.newsletter a {
+	color: #8e515a;
+}
+
+.newsletter h1 {
+	color: #8e515a;
+	font-size: 32px;
+	font-weight: bold;
+	line-height: 32px;
+}
+
+.newsletter h2 {
+	border-bottom: 1px solid #8e515a;
+	color: #8e515a;
+	font-size: 18px;
+	font-style: italic;
+	line-height: 18px;
+	margin-bottom: 15px;
+	padding-bottom: 5px;
+}
+
+.newsletter img.left {
+	float: left;
+	margin: 0 10px 10px 0;
+	width:  300px;
+}
+
+.newsletter .intro {
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.newsletter .intro-quote {
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 24px;
+	margin-top: 10px;
+}
+
+.newsletter p {
+	margin-bottom: 10px;
+}
+
+.newsletter ul li, .newsletter ol li {
+	margin: 0 0 15px 20px;
+}
+
+.newsletter ol li {
+	list-style-type:  decimal;
+}
+
+.newsletter .blockquote {
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	line-height: 22px;
+	margin: 0 auto 15px;
+	text-align: center;
+	width: 700px;
+}
+
+.newsletter .center {
+	text-align: center;
+}
+
+.newsletter ul.tight-list {
+	margin: 0 0 20px 0;
+}
+
+.newsletter ul.tight-list li {
+	margin: 0 0 0 10px;
+}
+
+.newsletter .emphasis {
+	text-decoration: underline;
+}
+
+.newsletter .emphasis-i {
+	font-style: italic;
+}
+
+.newsletter sup {
+	line-height: 9px;
+	font-size: 11px;
+}
+
+.newsletter .footnotes {
+	font-size: 13px;
+	margin: 30px 0;
+}
+
+.newsletter .subscription-information {
+	background: #eaeaea;
+	border: 1px solid #555;
+	font-size: 11px;
+	line-height: 15px;
+	margin: 10px auto;
+	padding: 10px 15px;
+	width: 600px;
+}
+
+.newsletter .subscription-information p {
+	margin: 0;
+}
+
+.newsletter .footer {
+	color: #555;
+	line-height: 15px;
+}
+
+.newsletter .footer .contact-info {
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 11px;
+	margin: 10px auto 10px;
+	text-align: center;
+	width: 300px;
+}
+
+.newsletter .footer .contact-info span {
+	display: block;
+}
+
+.newsletter .footer .contact-info .company {
+	font-size: 13px;
+}
+
+.newsletter .footer .copyright {
+	font-family: Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 11px;
+}
