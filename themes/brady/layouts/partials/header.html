@@ -1,12 +1,12 @@
 <header class="header wrapper-full-width">
   <div class="inner-wrapper clearfix">
-    <a href="http://www.bradyinc.com"
+    <a href="{{ .Site.BaseURL }}"
        class="logo-image">
        <img src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
             alt="{{ .Params.logoalt.graphic }}">
     </a>
     <div class="logo-tagline-wrapper">
-      <a id="logo-text" href="http://www.bradyinc.com">
+      <a id="logo-text" href="{{ .Site.BaseURL }}">
         <img src="{{ .Site.BaseURL }}{{ .Site.Params.logoText }}"
              alt="{{ .Params.logoalt.text }}">
       </a>

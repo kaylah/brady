@@ -20,7 +20,7 @@ Our IMPACT benchmark database contains validated staffing and activity informati
 
 You choose the service level that makes sense for your situation. You can either:
 
-* _<a href="http://www.bradyinc.com/quick-check/information/">Order IMPACT Quick Check Reports</a>_ for one or more departments today.
+* _<a href="/quick-check/information/">Order IMPACT Quick Check Reports</a>_ for one or more departments today.
 * Select this link if you want more information about a complete _<a href="mailto:info@bradyinc.com?subject=IMPACT%20Plus%20Hospital%20Staffing%20Review">IMPACT Plus Hospital Staffing Review</a>_. Call us at (816) 587-2120 and ]we will be happy to schedule a telephone or video conference with your senior management team to help you determine if our services are a good fit for current priorities.
 
 ## IMPACT Opportunity Inventory
