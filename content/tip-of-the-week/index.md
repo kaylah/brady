@@ -10,6 +10,28 @@ title = "Tip of the Week Videos"
 
 +++
 
+#### April 2017
+
+* <span class="link video-play-button">April 18, 2017 "Task Assignment by Job Class"</span>  
+<div class="video-wrapper">
+  <div class="close-video-button">x <span>close video</span></div>
+  <video class="video" src="/video/tip-of-the-week/4-18-17.mp4" controls></video>
+</div>
+
+* <span class="link video-play-button">April 4, 2017 "The Task Inventory"</span>  
+<div class="video-wrapper">
+  <div class="close-video-button">x <span>close video</span></div>
+  <video class="video" src="/video/tip-of-the-week/4-4-17.mp4" controls></video>
+</div>
+
+#### March 2017
+
+* <span class="link video-play-button">March 28, 2017 "Successful Labor Cost Reduction"</span>  
+<div class="video-wrapper">
+  <div class="close-video-button">x <span>close video</span></div>
+  <video class="video" src="/video/tip-of-the-week/3-28-17.mp4" controls></video>
+</div>
+
 #### February 2017
 
 * <span class="link video-play-button">February 14, 2017 "Avoiding Cost Reduction Failure"</span>  
