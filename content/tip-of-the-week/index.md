@@ -12,6 +12,12 @@ title = "Tip of the Week Videos"
 
 #### April 2017
 
+* <span class="link video-play-button">April 25, 2017 "Standard Task Times"</span>  
+<div class="video-wrapper">
+  <div class="close-video-button">x <span>close video</span></div>
+  <video class="video" src="/video/tip-of-the-week/4-25-17.mp4" controls></video>
+</div>
+
 * <span class="link video-play-button">April 18, 2017 "Task Assignment by Job Class"</span>  
 <div class="video-wrapper">
   <div class="close-video-button">x <span>close video</span></div>
