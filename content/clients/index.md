@@ -4,8 +4,11 @@ date = "2016-10-28T11:37:12-05:00"
 
 title = "List of Clients | Brady & Associates"
 
-[params]
-  description = "Brady & Associates has more than 750 health care clients in U.S., Europe, Canada and Middle East. Browse list of Hospitals where we have provided services."
+titleoverride = true
+
+description = "Brady & Associates has more than 750 health care clients in U.S., Europe, Canada and Middle East. Browse list of Hospitals where we have provided services."
+
+altpagetitle = "Clients"
 
 [logoAlt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"

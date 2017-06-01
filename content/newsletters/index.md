@@ -62,7 +62,7 @@ title = "Newsletters"
 
 ## Estimate of the Situation Newsletters
 
-The newsletters are in PDF format and require installation of a PDF reader. A free PDF reader and installation is available from <a href="http://get.adobe.com/reader/" target="_blank">http://get.adobe.com/reader/</a>. Please let us know if you have problems accessing the newsletters by calling (816) 587‐2120 during normal business hours (Central Time).
+The newsletters are in PDF format and require installation of a PDF reader. A free PDF reader and installation is available from <a href="http://get.adobe.com/reader/" target="_blank" rel="nofollow">http://get.adobe.com/reader/</a>. Please let us know if you have problems accessing the newsletters by calling (816) 587‐2120 during normal business hours (Central Time).
 
 ### See Issues of:
 

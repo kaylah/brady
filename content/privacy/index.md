@@ -4,8 +4,11 @@ date = "2016-10-31T07:46:56-05:00"
 
 title = "Brady & Associates Privacy Policy | Healthcare Consulting Firms"
 
-[params]
-  description = "Brady & Associates privacy policy applies to all users of the website. Contact us directly at info@bradyinc.com if you have questions."
+titleoverride = true
+
+description = "Brady & Associates privacy policy applies to all users of the website. Contact us directly at info@bradyinc.com if you have questions."
+
+altpagetitle = "Privacy Policy"
 
 [logoAlt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"

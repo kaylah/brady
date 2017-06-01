@@ -4,10 +4,11 @@ date = "2016-10-28T11:39:36-05:00"
 
 title = "Frequently Asked Questions | Brady & Associates"
 
-[params]
-  description = "Find answers to frequently asked questions regarding benchmarking data, systems thinking and more. For assistance, please contact us at (816) 587-2120."
+titleoverride = true
 
-altPageTitle = "Frequently Asked Questions"
+description = "Find answers to frequently asked questions regarding benchmarking data, systems thinking and more. For assistance, please contact us at (816) 587-2120."
+
+altpagetitle = "Frequently Asked Questions"
 
 [logoAlt]
   graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"

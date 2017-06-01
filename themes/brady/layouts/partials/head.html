@@ -3,15 +3,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .Params.titleoverride }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 
 {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="keywords" content="{{ with .Keywords }}{{ . }}{{ else }}{{ .Site.Params.keywords }}{{ end }}" />
 
 {{ if not .Site.Params.OpenGraph.hide }}
   <meta name="og:site_name" content="{{ .Site.Title }}">
-  <meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
   <meta name="og:url" content="{{ .Permalink }}">
   <meta name="og:image" content="{{ .Site.BaseURL }}images/{{ .Site.Params.sidebar.avatar }}">
 {{ end }}
@@ -22,13 +22,9 @@
 <link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:700%7COpen+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet" type="text/css">
 <link href='//fonts.googleapis.com/css?family=Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/old-style.css" type="text/css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" type="text/css">
 
 <script src="//load.sumome.com/" data-sumo-site-id="aa02c5d46f607445222cc3975792466b522a780335449928c874b935276edd22" async="async"></script>
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" async="async"></script>
-<script src="{{ .Site.BaseURL }}js/vendor/bxslider/jquery.bxslider.min.js" async="async"></script>
 
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"ProfessionalService","url":"http:\/\/www.bradyinc.com","name":"Brady \u0026 Associates","description":"Brady \u0026 Associates is recognized as one of the nation\u2019s top Hospital Organizational Specialist, that employs benchmarking data, systems thinking, and change management techniques to facilitate 360\u00b0 performance improvement in all types and sizes of clinical settings.","logo":"http:\/\/www.bradyinc.com\/img\/bradylogo.png","image":"http:\/\/www.bradyinc.com\/img\/bradylogo.png","hasMap":"https:\/\/www.google.com\/maps\/place\/Brady+%26+Associates\/@39.233791,-94.6591297,17z\/data=!3m1!4b1!4m5!3m4!1s0x0:0xeb360f13fc858700!8m2!3d39.233791!4d-94.656941","email":"info@bradyinc.com","telephone":"1-816-587-2120","sameAs":["https:\/\/www.facebook.com\/bradybenchmarks","http:\/\/twitter.com\/bradybenchmarks","https:\/\/plus.google.com\/+BradyAssociatesKansasCity","https:\/\/www.youtube.com\/channel\/UCjX2MYD_gR8cpwvqky7KrXQ","https:\/\/www.linkedin.com\/in\/frank-brady-benchmarks"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","ratingCount":"13"},"openingHours":["Mo-Sat 8am-6pm"],"address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","postalCode":"64151","streetAddress":"7667 NW Prairie View Road, Suite #204"},"geo":{"@type":"GeoCoordinates","latitude":"39.2337914","longitude":"-94.6569407"}}</script>
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"LocalBusiness","url":"http:\/\/www.bradyinc.com\/","name":"Brady \u0026 Associates","description":"For more than 30 years, the nation\u2019s renown hospital organizational specialist, Brady \u0026 Associates, have used data, systems thinking, and change management techniques to help hospitals improve their organizational effectiveness and facilitate 360\u00b0 performance improvement in the clinical setting. Unlike benchmarking services designed by database programmers, our services are created around knowledge gained from decades of research into the factors that limit human productivity in the clinical setting.","logo":"http:\/\/www.bradyinc.com\/img\/bradylogo.png","image":"http:\/\/www.bradyinc.com\/img\/bradylogo.png","hasMap":"https:\/\/www.google.com\/maps\/place\/Brady+%26+Associates\/@39.233791,-94.6591297,17z\/data=!3m1!4b1!4m5!3m4!1s0x0:0xeb360f13fc858700!8m2!3d39.233791!4d-94.656941","email":"info@bradyinc.com","telephone":"1-816-587-2120","openingHours":["Mo-Fri 8am-6pm"],"sameAs":["https:\/\/www.facebook.com\/bradybenchmarks","https:\/\/twitter.com\/BradyBenchmarks","https:\/\/plus.google.com\/+BradyAssociatesKansasCity","https:\/\/www.youtube.com\/channel\/UCjX2MYD_gR8cpwvqky7KrXQ","https:\/\/www.linkedin.com\/in\/frank-brady-benchmarks"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","ratingCount":"38"},"address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","postalCode":"64151","streetAddress":"7667 NW Prairie View Road, Suite #204"},"geo":{"@type":"GeoCoordinates","latitude":"39.2337914","longitude":"-94.6569407"}}</script>
@@ -64,5 +60,4 @@
 
   ga('create', 'UA-49223831-1', 'bradyinc.com');
   ga('send', 'pageview');
-
 </script>

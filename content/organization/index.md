@@ -4,10 +4,11 @@ date = "2016-10-28T11:33:30-05:00"
 
 title = "Hospital Organizational Specialists in Atlanta, Chicago, Cleveland"
 
-altPageTitle = "Hospital Organizational Structure"
+titleoverride = true
 
-[params]
-  description = "We apply organizational design principles to evaluate the structure of new or existing hospital in Atlanta, Chicago, St. Louis, Kansas & Cleveland."
+altpagetitle = "Hospital Organizational Structure"
+
+description = "We apply organizational design principles to evaluate the structure of new or existing hospital in Atlanta, Chicago, St. Louis, Kansas & Cleveland."
 
 [logoAlt]
   graphic = "hospital department productivity benchmarks, workload-based stafﬁng reviews"
