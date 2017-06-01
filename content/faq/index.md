@@ -2,7 +2,10 @@
 
 date = "2016-10-28T11:39:36-05:00"
 
-title = "FAQ"
+title = "Frequently Asked Questions | Brady & Associates"
+
+[params]
+  description = "Find answers to frequently asked questions regarding benchmarking data, systems thinking and more. For assistance, please contact us at (816) 587-2120."
 
 altPageTitle = "Frequently Asked Questions"
 

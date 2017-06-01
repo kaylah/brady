@@ -1,6 +1,9 @@
 +++
 
-title = "About Us"
+title = "About Brady & Associates | Hospital Consultants"
+
+[params]
+  description = "More than 30 years' experience helping hospitals to improve their organizational effectiveness. Over 750 clients in U.S., Europe, Canada and Middle East."
 
 date = "2016-10-27T00:27:52-05:00"
 

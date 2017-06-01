@@ -2,9 +2,12 @@
 
 date = "2016-10-31T09:12:40-05:00"
 
-title = "IMPACT Just the Numbers Benchmarks"
+title = "Hospital Productivity, Department & Medical Staffing Benchmarks"
 
-altPageTitle = "IMPACT Benchmarks"
+[params]
+  description = "With our IMPACT Benchmarks, you can easily improve department & staff productivity. Get hospitals benchmarking data for appraising and directing hospital activities."
+
+altPageTitle = "Hospital Benchmarking Data"
 
 [logoAlt]
   graphic = "Chicago hospital consultant, St. Louis hospital consultant"
@@ -17,6 +20,8 @@ The heart of this powerful labor productivity management services is our proprie
 Getting started is quick and easy and we do most of the work. The set up phase is unobtrusive and non-disruptive. Specialized algorithms “scrub” your data, testing relationships within and across departments to identify and resolve potential errors. Initial reports are typically available within 30 days after kick off.
 
 Apples-to-apples concerns and “uniqueness arguments”, the classic impediments to successful benchmarking efforts in the past, are addressed and neutralized head on. “Buy in” is further fostered by our focus on educating department managers about IMPACT’s unique peer group selection process and by individually obtaining their input at the start of the process before any numbers are “crunched”.
+
+## Hospital Department & Medical Staffing Benchmarks
 
 IMPACT Benchmarks facilitate the development, calibration and adjustment of department-level workload-based staffing standards. This is critically important given today’s frequent, dramatic, unanticipated, and unpredictable utilization changes. Department reports track workload-based productivity, hours worked to hours paid ratios, and overtime use. Each department’s productivity is compared against the actual range of performance achieved within peer groups that have been individually selected to match your departments’ intrinsic characteristics and workload. Graphic <a href="/pdfs/IMPACT_Quarterly_Trend_Report.pdf" target="_blank">Trend Reports</a> demonstrate the trajectory and velocity changes quarter-to-quarter. IMPACT Plus subscribers also receive password access to <a href="/quick-check/information/" title="Quick Check Information">Quick Check</a>.
 
