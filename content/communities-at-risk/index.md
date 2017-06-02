@@ -51,4 +51,4 @@ _The Affordable Care Act_ is failing because a sinking ship cannot be saved by e
 
 To learn more about preserving local health care in your community, e-mail <a href="mailto:info@bradyinc.com?Subject=Plan 'B'">info@bradyinc.com</a>. Enter "Plan 'B'" on the subject line and record your contact information in the body of your query.
 
-In the meantime, please visit our new <a href="http://communities-at-risk.blogspot.com/" target="_blank">Communities at Risk blog</a>, bookmark it, and come back often. We look forward to hearing from you.
+In the meantime, please visit our new <a href="http://communities-at-risk.blogspot.com/" target="_blank" rel="nofollow">Communities at Risk blog</a>, bookmark it, and come back often. We look forward to hearing from you.

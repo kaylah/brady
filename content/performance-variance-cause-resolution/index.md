@@ -1,10 +1,10 @@
 +++
 
-altPageTitle = "Resolving Performance Barriers"
+date = "2016-11-01T20:27:43-05:00"
 
 title = "Performance Variance Cause Resolution"
 
-date = "2016-11-01T20:27:43-05:00"
+altpagetitle = "Resolving Performance Barriers"
 
 [logoAlt]
   graphic = "St. Louis hospital organizational specialists, Cleveland hospital organizational specialists"

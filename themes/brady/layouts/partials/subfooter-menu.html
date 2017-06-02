@@ -1,27 +1,28 @@
 <div class="subfooter wrapper-full-width">
   <div class="inner-wrapper">
+    {{ partial "social" . }}
     <div class="subfooter-menu-container">
       <ul class="subfooter-menu menu">
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}">Home</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}" title="Home">Home</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}about-us">About Us</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}about-us" title="About Us">About Us</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}productivity">Productivity</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}productivity" title="Hospital Productivity">Productivity</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}organization">Organization</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}organization" title="Hospital Organization">Organization</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}contact-us">Contact Us</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}contact-us" title="Contact Us">Contact Us</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}clients">Clients</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}clients" title="Clients">Clients</a>
         </li>
         <li class="menu-item">
-          <a class="menu-link" href="{{ .Site.BaseURL }}faq">FAQ</a>
+          <a class="menu-link" href="{{ .Site.BaseURL }}faq" title="FAQ">FAQ</a>
         </li>
       </ul>
     </div>

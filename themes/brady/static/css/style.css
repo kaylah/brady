@@ -5,6 +5,7 @@
 @import 'partials/main-menu.css';
 @import 'partials/subfooter.css';
 @import 'partials/footer.css';
+@import 'partials/social.css';
 @import 'partials/sidebar.css';
 
 @import 'desktop-style.css' (min-width: 940px);

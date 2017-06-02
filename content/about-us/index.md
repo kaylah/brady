@@ -1,10 +1,14 @@
 +++
 
-title = "About Us"
-
 date = "2016-10-27T00:27:52-05:00"
 
-altPageTitle = "World Class Knowledge-Based Services"
+title = "About Brady & Associates | Hospital Consultants"
+
+titleoverride = true
+
+description = "More than 30 years' experience helping hospitals to improve their organizational effectiveness. Over 750 clients in U.S., Europe, Canada and Middle East."
+
+altpagetitle = "World Class Knowledge-Based Services"
 
 [logoAlt]
   graphic = "hospital organizational specialists in Kansas City, Chicago hospital organizational specialists"

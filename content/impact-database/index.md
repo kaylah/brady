@@ -4,7 +4,7 @@ date = "2016-11-08T01:30:44-06:00"
 
 title = "Impact Database"
 
-altPageTitle = "IMPACT: The Database and Peer Group Selection"
+altpagetitle = "IMPACT: The Database and Peer Group Selection"
 
 showDBImpactForm = true
 

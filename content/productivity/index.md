@@ -2,7 +2,13 @@
 
 date = "2016-10-28T11:28:27-05:00"
 
-title = "Productivity"
+title = "Hospital Productivity Measures & IMPACT Staffing Review"
+
+titleoverride = true
+
+description = "With Our IMPACT staffing review you can easily develop, calibrate and adjust department-level workload-based staffing standards. Call us at (816) 587-2120."
+
+altpagetitle = "Hospital Productivity Measures"
 
 [logoAlt]
   graphic = "Kansas City hospital consultant, Chicago hospital organization benchmarks"

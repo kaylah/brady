@@ -4,7 +4,7 @@ date = "2016-11-01T20:17:54-05:00"
 
 title = "Pay-Period Productivity Reporting"
 
-altPageTitle = "The IMPACT Operations Monitor, Pay-Period Productivity Reporting"
+altpagetitle = "The IMPACT Operations Monitor, Pay-Period Productivity Reporting"
 
 [logoAlt]
   graphic = "hospital organizational specialists in Cleveland, hospital organizational specialists in Atlanta"
