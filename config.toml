@@ -1,5 +1,6 @@
 languageCode = "en-us"
 baseurl = "https://www.bradyinc.com/"
+version = "1.0.0"
 copyright = "© 2016 Brady & Associates"
 title = "Brady & Associates: Hospital Organizational Specialists"
 theme = "brady"
