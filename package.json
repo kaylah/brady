@@ -4,7 +4,8 @@
   "description": "Bradyinc.com uses [Hugo](https://gohugo.io/) to build a static website. The page content is stored in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) templates.",
   "main": "index.js",
   "scripts": {
-    "sass:build": "./node_modules/.bin/node-sass --source-map true themes/brady/static/scss/ -o themes/brady/static/css/"
+    "sass:build": "node-sass --source-map true themes/brady/static/scss/ -o themes/brady/static/css/",
+    "publish:build": "npm run sass:build && hugo --destination /dist/public"
   },
   "repository": {
     "type": "git",
