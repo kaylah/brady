@@ -1,0 +1,7 @@
+node_modules
+
+# Videos
+static/video
+
+# CSS
+ themes/brady/static/css
