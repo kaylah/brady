@@ -24,10 +24,7 @@ Our IMPACT benchmark database contains validated staffing and activity informati
 * Track workload-based productivity, hours worked to hours paid ratios, and overtime use.
 * Identify cost reduction opportunities. Small improvements will produce tremendous cost savings. A productivity improvement of only five percent in just four departments (ICU, ED, Laboratory, and a Medical/Surgical Nursing Unit) will produce annualized cost savings in excess of $647,000 in a typical mid-size community hospital.
 
-You choose the service level that makes sense for your situation. You can either:
-
-* _<a href="/quick-check/information/">Order IMPACT Quick Check Reports</a>_ for one or more departments today.
-* Select this link if you want more information about a complete _<a href="mailto:info@bradyinc.com?subject=IMPACT%20Plus%20Hospital%20Staffing%20Review">IMPACT Plus Hospital Staffing Review</a>_. Call us at (816) 587-2120 and ]we will be happy to schedule a telephone or video conference with your senior management team to help you determine if our services are a good fit for current priorities.
+You may choose to have this service delivered in person on your campus or eliminate travel-related and some fee expense by using remote service employing videoconferencing technology.
 
 ## IMPACT Opportunity Inventory
 Nothing causes more angst among department heads than missing productivity targets and not knowing what to do about it. _The IMPACT Opportunity Inventory_ will move your managers beyond endless defensive discussions about FTE numbers to action. Real and lasting labor cost reduction and performance improvement can be achieved by systematically applying the Inventory’s tools to identify, prioritize, and resolve productivity barriers.
