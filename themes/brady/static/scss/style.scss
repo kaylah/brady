@@ -1,0 +1,14 @@
+@import 'vendor/normalize';
+@import 'base';
+
+@import 'partials/header';
+@import 'partials/main-menu';
+@import 'partials/subfooter';
+@import 'partials/footer';
+@import 'partials/social';
+@import 'partials/sidebar';
+
+//@import 'desktop-style' (min-width: 940px);
+@media (min-width: 940px) {
+  @import 'desktop-style';
+}

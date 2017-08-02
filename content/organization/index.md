@@ -26,6 +26,4 @@ Genuine and potentially very significant opportunities to increase net revenue a
 
 Although opportunities will vary from hospital to hospital, nothing prevents many hospitals from spinning off corporate entities unencumbered by the hospital’s cost structure. A wide variety of carefully-selected existing and new outpatient services could be outsourced to those entities, potentially at lower and more competitive costs. It goes without saying that any potential corporate restructuring must be carefully evaluated to determine the net cost, accessibility, and quality benefit to the organization and to the community served. We will apply recognized organizational design principles to evaluate the structure of new or existing healthcare delivery organizations. Click on the symbol on the lower-right corner of each box in the example to expand or collapse the view.
 
-## Hospital Organizational Specialists in Chicago, Atlanta, Cleveland & Kansas City
-
 If you would like to arrange a video conference to discuss this with your senior management team, select this <a href="mailto:info@bradyinc.com?subject=Organizational%20Structure%20Discussion">link</a>. We will schedule a video conference with your senior management team to help you determine if our services are a good fit for current priorities.
